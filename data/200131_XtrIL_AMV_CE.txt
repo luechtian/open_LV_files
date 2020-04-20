@@ -1,0 +1,25 @@
+C:\LipidView Data\LV Results\200131_XtrIL_AMV_Pos_PS_NL_QTRAP_CE_TM.txt	Peak Intensities									
+Sample Name						Sample 1	Sample 2	Sample 3	Sample 4	Kon A
+Sample ID	PIS m/z	Polarity	View Type	LipidName	(ScanName)	1	2	3	4	5
+544.6	369.00	Positive	Confirmed and Common Results	IS Chol 9:0	(FA 20:0+C3H6O/Chol)	16869875	15516250	151.707.497.398	14463125	12.362.928.766
+684.8	369.00	Positive	Confirmed and Common Results	IS Chol 19:0	(FA 20:0+C3H6O/Chol)	118.567.020.699	101.314.613.682	100.407.917.856	107.190.411.608	11073125
+752.9	369.00	Positive	Confirmed and Common Results	IS Chol 24:1	(FA 20:0+C3H6O/Chol)	17638375	14496375	122.359.463.741	15265625	21154125
+612.7	369.00	Positive	Confirmed and Common Results	Chol 14:1	(FA 20:0+C3H6O/Chol)	2.050.683.144	652.476.771	96.558.176	1.126.768.795	372.558.274
+614.7	369.00	Positive	Confirmed and Common Results	Chol 14:0	(FA 20:0+C3H6O/Chol)	5.118.143.546	2.219.778.776	3.595.333.326	2.940.777.317	98250
+628.7	369.00	Positive	Confirmed and Common Results	Chol 15:0	(FA 20:0+C3H6O/Chol)	4.563.847.378	2.220.396.015	2.890.246.991	2.693.572.313	102250
+638.7	369.00	Positive	Confirmed and Common Results	Chol 16:2	(FA 20:0+C3H6O/Chol)	1.303.633.966	67500	727.479.012	702.126.012	31250
+640.7	369.00	Positive	Confirmed and Common Results	Chol 16:1	(FA 20:0+C3H6O/Chol)	14.898.111.816	6.571.738.386	7.423.807.468	6.718.325.043	2.711.365.618
+642.7	369.00	Positive	Confirmed and Common Results	Chol 16:0	(FA 20:0+C3H6O/Chol)	17.860.873.249	870.418.066	9.874.115.146	8.818.554.608	1.674.005.609
+654.7	369.00	Positive	Confirmed and Common Results	Chol 17:1	(FA 20:0+C3H6O/Chol)	3.244.932.044	1.887.979.727	1.933.465.945	2.081.096.484	84375
+656.7	369.00	Positive	Confirmed and Common Results	Chol 17:0	(FA 20:0+C3H6O/Chol)	3.103.391.682	2.434.750.978	1.992.252.804	1.938.453.807	638.546.934
+664.7	369.00	Positive	Confirmed and Common Results	Chol 18:3	(FA 20:0+C3H6O/Chol)	284.127.858	1.171.870.679	2.539.411.999	164.200.833	362.414.535
+666.7	369.00	Positive	Confirmed and Common Results	Chol 18:2	(FA 20:0+C3H6O/Chol)	7.054.391.004	3.864.045.379	4.347.739.944	4.123.398.179	136500
+668.7	369.00	Positive	Confirmed and Common Results	Chol 18:1	(FA 20:0+C3H6O/Chol)	41.380.307.033	22.112.632.257	24.459.982.583	24.678.704.923	4.071.992.926
+670.7	369.00	Positive	Confirmed and Common Results	Chol 18:0	(FA 20:0+C3H6O/Chol)	5.297.656.576	309.198.438	2.676.405.432	3.554.873.496	735.008.398
+682.7	369.00	Positive	Confirmed and Common Results	Chol 19:1	(FA 20:0+C3H6O/Chol)	2.239.591.324	1.279.229.403	1.302.863.486	1.703.606.911	36750
+690.7	369.00	Positive	Confirmed and Common Results	Chol 20:4	(FA 20:0+C3H6O/Chol)	430.215.371	2.974.637.832	217.231.927	317892.06	114.644.517
+692.7	369.00	Positive	Confirmed and Common Results	Chol 20:3	(FA 20:0+C3H6O/Chol)	3.390.351.192	1.993.973.957	2.178.333.248	2.781.734.416	31.480.145
+694.8	369.00	Positive	Confirmed and Common Results	Chol 20:2	(FA 20:0+C3H6O/Chol)	2.580.713.229	1.521.536.383	1.800.984.878	2.156.745.989	274.553.133
+696.8	369.00	Positive	Confirmed and Common Results	Chol 20:1	(FA 20:0+C3H6O/Chol)	4.384.661.722	2.259.661.705	3.421.560.301	3.317.978.958	753.998.086
+714.7	369.00	Positive	Confirmed and Common Results	Chol 22:6	(FA 20:0+C3H6O/Chol)	5.548.101.558	435625	658625	10.037.715.615	29.755.289
+716.7	369.00	Positive	Confirmed and Common Results	Chol 22:5	(FA 20:0+C3H6O/Chol)	3.621.895.553	2.459.705.521	2.020.496.635	3.744.951.119	33.889.783
